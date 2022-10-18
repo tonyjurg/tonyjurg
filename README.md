@@ -2,7 +2,7 @@
 - 👀 I’m interested in Theology and Technology
 - 🌱 I’m currently learning Digital Humanities
 - 💞️ I’m looking to collaborate on TextFabric
-- 📫 How to reach me ...
+
 
 <!---
 tonyjurg/tonyjurg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
