@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tonyjurg
 - 👀 I’m interested in Theology and Technology
-- 🌱 I’m currently learning Digital Humanities
+- 🌱 I’m currently Research Master student Biblical Studies and Digital Humanities @VU_Amsterdam
 - 💞️ I’m looking to collaborate on TextFabric
 
 
