@@ -7,8 +7,9 @@
 
 ### Some of the current projects
 
-Project |  Status | Description
+Project |  Status / DOI | Description
 --- | --- | ---
-[Nestle1904LFT](https://github.com/tonyjurg/Nestle1904LFT) | [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) | Text-Fabric dataset of the Greek New Testament based upon the Nestle 1904 edition (Low-Fat XML Tree data)
+[Nestle1904LFT](https://github.com/tonyjurg/Nestle1904LFT) | [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10182594.svg)](https://doi.org/10.5281/zenodo.10182594)
+| Text-Fabric dataset of the Greek New Testament based upon the Nestle 1904 edition (Low-Fat XML Tree data)
 [Nestle1904GBI](https://github.com/tonyjurg/Nestle1904GBI) | [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip) | Text-Fabric dataset of the Greek New Testament based upon the Nestle 1904 edition (GBI XML Tree data)
 [Parashot](https://github.com/tonyjurg/Parashot) |[![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept) | Digital Humanies tools used for the weekly Parasha (Torah portion of the week)
