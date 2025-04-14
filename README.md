@@ -14,3 +14,7 @@ Project |  Status / DOI | Description
 [Parashot](https://github.com/tonyjurg/Parashot) | [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)  | Digital Humanies tools used for the weekly Parasha (Torah portion of the week)
 [BHSaddons](https://github.com/tonyjurg/BHSaddons)| [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14051603.svg)](https://doi.org/10.5281/zenodo.14051603) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_NC-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) | Additional Text-Fabric features for use with the BHSA to handle parasha textual portions
 [TasmotaTimer](https://github.com/tonyjurg/TasmotaTimer) | [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_NC-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) | User friendly timer app using node.js to control Tasmota powered smartplugs
+
+### Gist
+
+[My Gist on GitHub](https://gist.github.com/tonyjurg)
