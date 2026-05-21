@@ -1,13 +1,37 @@
-👋 Hi, I’m @tonyjurg
+<div align="center">
+  <h1>👋 Hi, I'm Tony Jurg</h1>
+  
+  **Research Master in Digital Humanities & Biblical Studies**  
+  *Combining ancient texts with modern technology*
+</div>
 
-👀 I’m interested in 💻 Technology, 📖 Theology and combining them.
+### About me
 
-🌱 I’m Research Master Digital Humanities and Biblical Studies ([VU_Amsterdam](https://vu.nl/en))
+- 🔭 **Focus**: Digital Humanities, Biblical Greek & Hebrew, Computational Linguistics  
+- 🌱 **Currently working on**: High-quality open datasets  
+- 💞️ **Open for collaboration**: Text-Fabric, Ancient Greek NLP, Digital Scripture projects  
+- 📍 Based in the Amsterdam area
 
-💞️ I’m looking to collaborate on [Text-Fabric](https://github.com/annotation/text-fabric) / [Context-Fabric](https://context-fabric.ai/)
+### 🔗 Connect with me
 
-[![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-0343-1346) ORCID:
-[0000-0002-0343-1346](https://orcid.org/0000-0002-0343-1346)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0343--1346-A6CE39.svg?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0343-1346)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tony%20Jurg-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-jurg/)
+[![Academia.edu](https://img.shields.io/badge/Academia.edu-Tony%20Jurg-9D2B3B.svg?logo=academia&logoColor=white)](https://vu-nl.academia.edu/TonyJurg)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Tony%20Jurg-00CCBB.svg?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Tony-Jurg)
+[![PyPI](https://img.shields.io/badge/PyPI-Tony%20Jurg-blue.svg?logo=pypi&logoColor=white)](https://pypi.org/user/tonyjurg/)
+
+---
+
+### 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?logo=neo4j&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ### Some of the current projects
 
