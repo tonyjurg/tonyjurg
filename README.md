@@ -30,7 +30,7 @@ My projects range from Python libraries and Jupyter research notebooks to MCP se
 | **[Doc4TF](https://github.com/tonyjurg/Doc4TF)** | Generates Text-Fabric feature documentation from the actual dataset, including feature inventories and statistics. | [Documentation](https://tonyjurg.github.io/Doc4TF/) |
 | **[Morphkit](https://github.com/tonyjurg/morphkit)** | Ancient Greek morphological analysis and tag comparison, connecting Morpheus output with Text-Fabric conventions. | [Documentation](https://tonyjurg.github.io/morphkit/) · [PyPI](https://pypi.org/project/morphkit/) |
 | **[N1904addons](https://github.com/tonyjurg/N1904addons)** | Additional morphological and analytical features for the N1904 Greek New Testament Text-Fabric dataset. | [Documentation](https://tonyjurg.github.io/N1904addons/) |
-| **[BHSaddons](https://github.com/tonyjurg/BHSaddons)** | Text-Fabric features supporting analysis of the Hebrew Bible and Torah portions. | [https://github.com/tonyjurg/BHSaddons](https://tonyjurg.github.io/BHSaddons/) |
+| **[BHSaddons](https://github.com/tonyjurg/BHSaddons)** | Text-Fabric features supporting analysis of the Hebrew Bible and Torah portions. | [Documentation](https://tonyjurg.github.io/BHSaddons/) |
 
 **Related corpus:** [CenterBLC/N1904](https://github.com/CenterBLC/N1904) — the Greek New Testament in Text-Fabric format.
 
