@@ -1,51 +1,69 @@
 <div align="center">
-  <h1>👋 Hi, I'm Tony Jurg</h1>
-  
-  **Research Master in Digital Humanities & Biblical Studies**  
-  *Combining ancient texts with modern technology*
+
+# Tony Jurg
+
+**Digital Humanities · Biblical Studies · Open Research Software**
+
+Connecting ancient texts, linguistic data, and modern computational methods.
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0343--1346-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0343-1346)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-jurg/)
+[![Academia.edu](https://img.shields.io/badge/Academia.edu-Tony%20Jurg-9D2B3B.svg?logo=academia&logoColor=white)](https://vu-nl.academia.edu/TonyJurg)
+[![PyPI](https://img.shields.io/badge/PyPI-Packages-3775A9?logo=pypi&logoColor=white)](https://pypi.org/user/tonyjurg/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?logo=github&logoColor=white)](https://github.com/tonyjurg?tab=repositories)
+
 </div>
 
-### About me
+## About
 
-- 🔭 **Focus**: Digital Humanities, Biblical Greek & Hebrew, Computational Linguistics  
-- 🌱 **Currently working on**: High-quality open datasets  
-- 💞️ **Open for collaboration**: Text-Fabric, Ancient Greek NLP, Digital Scripture projects  
-- 📍 Based in the Amsterdam area
+I develop tools and reproducible research workflows at the intersection of **biblical studies, digital humanities, and software engineering**. My work includes computational analysis of Biblical Hebrew and Ancient Greek, linguistic datasets, Text-Fabric extensions, and tools that make scholarly sources accessible through modern interfaces.
 
-### 🔗 Connect with me
+My projects range from Python libraries and Jupyter research notebooks to MCP servers, graph visualizations, and practical web and home-automation applications.
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0343--1346-A6CE39.svg?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0343-1346)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tony%20Jurg-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-jurg/)
-[![Academia.edu](https://img.shields.io/badge/Academia.edu-Tony%20Jurg-9D2B3B.svg?logo=academia&logoColor=white)](https://vu-nl.academia.edu/TonyJurg)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Tony%20Jurg-00CCBB.svg?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Tony-Jurg)
-[![PyPI](https://img.shields.io/badge/PyPI-Tony%20Jurg-blue.svg?logo=pypi&logoColor=white)](https://pypi.org/user/tonyjurg/)
+## Featured projects
 
----
+### Research infrastructure and ancient texts
 
-### 🛠️ Technologies & Tools
+| Project | What it does | Explore |
+| --- | --- | --- |
+| **[Perseus MCP](https://github.com/tonyjurg/Perseus-mcp)** | MCP server for discovering and retrieving ancient Greek and Latin texts through Perseus and related services. | [Documentation](https://tonyjurg.github.io/Perseus-mcp/) · [PyPI](https://pypi.org/project/perseus-mcp/) |
+| **[Doc4TF](https://github.com/tonyjurg/Doc4TF)** | Generates Text-Fabric feature documentation from the actual dataset, including feature inventories and statistics. | [Documentation](https://tonyjurg.github.io/Doc4TF/) |
+| **[Morphkit](https://github.com/tonyjurg/morphkit)** | Ancient Greek morphological analysis and tag comparison, connecting Morpheus output with Text-Fabric conventions. | [Documentation](https://tonyjurg.github.io/morphkit/) · [PyPI](https://pypi.org/project/morphkit/) |
+| **[N1904addons](https://github.com/tonyjurg/N1904addons)** | Additional morphological and analytical features for the N1904 Greek New Testament Text-Fabric dataset. | [Feature documentation](https://tonyjurg.github.io/N1904addons/) |
+| **[BHSaddons](https://github.com/tonyjurg/BHSaddons)** | Text-Fabric features supporting analysis of the Hebrew Bible and Torah portions. | [Repository](https://github.com/tonyjurg/BHSaddons) |
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?logo=neo4j&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+**Related corpus:** [CenterBLC/N1904](https://github.com/CenterBLC/N1904) — the Greek New Testament in Text-Fabric format.
 
-### Some of the current projects
+### Reproducible research and exploratory tools
 
-Project |  Status / DOI | Description
---- | --- | ---
-[CenterBLC/N1904](https://github.com/CenterBLC/N1904) | [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![DOI](images/zenodo.13117911.svg)](https://zenodo.org/doi/10.5281/zenodo.13117910) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | Comprehensive Text-Fabric dataset for the Greek New Testament (Nestle 1904, seventh edition: reprint 1913), enabling linguistic and textual analytics.
-[Doc4TF](https://github.com/tonyjurg/Doc4TF) |[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![DOI](images/zenodo.12705876.svg)](https://doi.org/10.5281/zenodo.12705876) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) | Jupyter Notebook based Python tool to automaticaly generate Text-Fabric feature documentation from an exising dataset. [PDF description](https://github.com/tonyjurg/Doc4TF/blob/main/Doc4TF_Automatic_Generation_of_Text_Fabric_Documentation.pdf).
-[N1904addons](https://tonyjurg.github.io/N1904addons/)| [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)  [![DOI](images/zenodo.17091708.svg)](https://doi.org/10.5281/zenodo.17091708) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) | Additional Text-Fabric features for use with the N1904-TF dataset of the Greek New Testament
-[Morphkit](https://tonyjurg.github.io/morphkit/)|[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)  [![Docs](https://img.shields.io/badge/docs-%F0%9F%93%96-success.svg)](https://tonyjurg.github.io/morphkit/) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![DOI](images/zenodo.15920833.svg)](https://doi.org/10.5281/zenodo.15920833) [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/) [![PyPI Version](https://img.shields.io/pypi/v/morphkit)](https://pypi.org/project/morphkit/) | Python toolkit for interfacing with Morpheus API to perform morphological analysis on Ancient Greek
-[BHSaddons](https://github.com/tonyjurg/BHSaddons/)| [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![DOI](images/zenodo.14051603.svg)](https://doi.org/10.5281/zenodo.14051603) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) | Additional Text-Fabric features for use with the BHSA to handle parasha textual portions
-[Parashot](https://github.com/tonyjurg/Parashot) | [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)  | Digital Humanies tools used for the weekly Parasha (Torah portion of the week)
-[Cost of Tabernacle](https://github.com/tonyjurg/cost_of_tabernacle) | [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) | [Interactive page](https://tonyjurg.github.io/cost_of_tabernacle/) using real time data to estimate current cost of the biblical tabernacle
-[TasmotaTimer](https://github.com/tonyjurg/TasmotaTimer) | [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) | User friendly timer app using node.js to control Tasmota powered smartplugs
+| Project | What it does |
+| --- | --- |
+| **[Hakhel](https://github.com/tonyjurg/Hakhel)** | Research notebooks investigating the inclusion of children in Deuteronomy 31:10–13 across Hebrew, Greek, and reception-history sources. |
+| **[Parasha Gematria Browser](https://github.com/tonyjurg/parasha-gematria-browser)** | Interactive browser exploring numerical patterns in the 54 Torah portions. [Try it online](https://tonyjurg.github.io/parasha-gematria-browser/). |
 
-### Gist
+### Applications and engineering
 
-[My Gist on GitHub](https://gist.github.com/tonyjurg)
+| Project | What it does |
+| --- | --- |
+| **[SVG to STL Web](https://github.com/tonyjurg/svg2stl-web)** | Self-hosted conversion of SVG artwork into 3D-printable STL geometry. [Project site](https://tonyjurg.github.io/svg2stl-web/). |
+| **[Venta Protocol V2](https://github.com/tonyjurg/venta_protocol_v2_device)** | Python interface for controlling compatible Venta humidifiers on a local network. [PyPI](https://pypi.org/project/venta-protocol-v2-device/). |
+
+## Working principles
+
+- **Traceability:** link analytical claims to source texts, datasets, code, and recorded procedures.
+- **Reproducibility:** document environments, versions, methods, and the limits of automated analysis.
+- **Interoperability:** connect established scholarly data resources with Python, Text-Fabric, MCP, and graph technologies.
+- **Open access:** share reusable software, documentation, and research workflows with appropriate attribution.
+
+## Technologies
+
+**Languages:** Python · JavaScript · TypeScript · PHP  
+**Research:** Text-Fabric · Jupyter · Ancient Greek and Hebrew corpus analysis  
+**Interfaces and infrastructure:** MCP · Neo4j · GitHub Actions · Docker · WordPress
+
+## Research profiles and contact
+
+[ORCID](https://orcid.org/0000-0002-0343-1346) · [LinkedIn](https://www.linkedin.com/in/tony-jurg/) · [ResearchGate](https://www.researchgate.net/profile/Tony-Jurg) · [Academia.edu](https://vu-nl.academia.edu/TonyJurg) · [PyPI](https://pypi.org/user/tonyjurg/) · [GitHub Gists](https://gist.github.com/tonyjurg)
+
+Interested in collaborating on **Text-Fabric, ancient-language NLP, digital biblical scholarship, or reproducible research tools**? Reach out through [LinkedIn](https://www.linkedin.com/in/tony-jurg/) or [Academia.edu](https://tonyjurg.academia.edu/contact).
+
